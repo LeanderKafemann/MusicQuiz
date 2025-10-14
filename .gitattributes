@@ -1,0 +1,8 @@
+*.md linguist-language=Markdown
+*.md linguist-detectable=true
+*.md linguist-documentation=false
+
+*.txt linguist-language=Text
+*.txt linguist-detectable=true
+
+*.shortcut linguist-language=Swift
