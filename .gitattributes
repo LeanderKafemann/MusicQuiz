@@ -5,4 +5,4 @@
 *.txt linguist-language=Text
 *.txt linguist-detectable=true
 
-*.shortcut linguist-language=Apple Shortcuts
+*.shortcut linguist-language=AppleShortcuts
